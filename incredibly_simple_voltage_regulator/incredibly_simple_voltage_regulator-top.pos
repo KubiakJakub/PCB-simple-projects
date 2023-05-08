@@ -1,0 +1,19 @@
+### Footprint positions - created on Sun Apr 16 13:10:12 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                                        PosX       PosY       Rot  Side
+C1        0.33uF                C_Disc_D4.7mm_W2.5mm_P5.00mm                               101.3800   -58.9850  -90.0000  top
+C2        0.1uF                 C_Disc_D4.7mm_W2.5mm_P5.00mm                                96.4800   -58.7850  -90.0000  top
+C3        0.33uF                C_Disc_D4.7mm_W2.5mm_P5.00mm                                80.9400   -59.1200  -90.0000  top
+C4        0.1uF                 C_Disc_D4.7mm_W2.5mm_P5.00mm                                76.9500   -59.0000  -90.0000  top
+D1        LED                   LED_D4.0mm                                                  95.1500   -44.3250   90.0000  top
+D2        LED                   LED_D4.0mm                                                  82.3000   -44.2750   90.0000  top
+J1        Screw_Terminal_01x02  TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal    97.4000   -33.2450  180.0000  top
+J2        Screw_Terminal_01x02  TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal    84.6500   -33.2500  180.0000  top
+J3        Screw_Terminal_01x02  TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal    86.2000   -62.6000    0.0000  top
+R1        330_Ohm               R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal            98.6600   -47.5450  180.0000  top
+R2        330_Ohm               R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal            85.9100   -47.5500  180.0000  top
+U1        LM7805_TO220          TO-220-3_Vertical                                           97.2600   -52.3450  180.0000  top
+U2        LM7809_TO220          TO-220-3_Vertical                                           84.8000   -52.2000  180.0000  top
+## End
